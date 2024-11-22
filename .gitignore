@@ -1,3 +1,14 @@
+# Additional
+# React Native
+node_modules/
+ios/build/
+android/app/build/
+*.iml
+*.keystore
+.idea/
+.vscode/
+
+
 # OSX
 #
 .DS_Store
